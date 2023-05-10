@@ -1,0 +1,9 @@
+INSERT INTO CSCI5308_6_DEVINT.Import (id, import_date, file_name, record_count, status, project_id) VALUES (1, '2022-05-25 21:51', 'Tempus.xml', 54, 'started', 5);
+INSERT INTO CSCI5308_6_DEVINT.Import (id, import_date, file_name, record_count, status, project_id) VALUES (2, '2021-12-20 7:12', 'Mauris.xml', 58, 'completed', 3);
+INSERT INTO CSCI5308_6_DEVINT.Import (id, import_date, file_name, record_count, status, project_id) VALUES (3, '2021-11-07 1:12', 'RutrumRutrum.xml', 82, 'completed', 1);
+INSERT INTO CSCI5308_6_DEVINT.Import (id, import_date, file_name, record_count, status, project_id) VALUES (4, '2022-10-13 0:17', 'CondimentumIdLuctus.xml', 89, 'completed', 1);
+INSERT INTO CSCI5308_6_DEVINT.Import (id, import_date, file_name, record_count, status, project_id) VALUES (5, '2022-06-24 22:37', 'SitAmet.xml', 67, 'pending', 1);
+INSERT INTO CSCI5308_6_DEVINT.Import (id, import_date, file_name, record_count, status, project_id) VALUES (6, '2022-06-16 17:56', 'Elementum.xml', 89, 'pending', 2);
+INSERT INTO CSCI5308_6_DEVINT.Import (id, import_date, file_name, record_count, status, project_id) VALUES (7, '2022-07-05 8:29', 'AtVelit.xml', 54, 'completed', 3);
+INSERT INTO CSCI5308_6_DEVINT.Import (id, import_date, file_name, record_count, status, project_id) VALUES (8, '2022-03-10 21:52', 'ArcuLiberoRutrum.xml', 30, 'completed', 4);
+INSERT INTO CSCI5308_6_DEVINT.Import (id, import_date, file_name, record_count, status, project_id) VALUES (9, '2022-09-22 14:33', 'NonummyMaecenasTincidunt.xml', 71, 'completed', 1);

@@ -1,0 +1,10 @@
+INSERT INTO CSCI5308_6_DEVINT.User (id, first_name, last_name, email, password, role) VALUES (108586, 'Mathian', 'Spinnace', 'mspinnace0@microsoft.com', '8e44cb68456d38351a9c57015a3126d8', 'manager');
+INSERT INTO CSCI5308_6_DEVINT.User (id, first_name, last_name, email, password, role) VALUES (664468, 'Anastassia', 'Limeburn', 'alimeburn1@livejournal.com', '9fee5eac02cc504aa53bf14591f54745', 'annotator');
+INSERT INTO CSCI5308_6_DEVINT.User (id, first_name, last_name, email, password, role) VALUES (958515, 'Blanche', 'Rothschild', 'brothschild2@google.pl', '22d0bd343854fa26da6c3db5b43ee78e', 'annotator');
+INSERT INTO CSCI5308_6_DEVINT.User (id, first_name, last_name, email, password, role) VALUES (948511, 'Jone', 'Atteridge', 'jatteridge3@wikipedia.org', '8517b04423be6ebb6395fce3abb9f64b', 'annotator');
+INSERT INTO CSCI5308_6_DEVINT.User (id, first_name, last_name, email, password, role) VALUES (324040, 'Shelby', 'Feaveryear', 'sfeaveryear4@lulu.com', '63fa13256719e4d32daa4a08d36d4d88', 'manager');
+INSERT INTO CSCI5308_6_DEVINT.User (id, first_name, last_name, email, password, role) VALUES (274198, 'Sidonnie', 'Kepp', 'skepp5@disqus.com', 'c51129241a6474d62a90de9ac49414e4', 'annotator');
+INSERT INTO CSCI5308_6_DEVINT.User (id, first_name, last_name, email, password, role) VALUES (714588, 'Harmon', 'Comolli', 'hcomolli6@yahoo.co.jp', 'c555aaa349285d23e2eb1932cd6bcdc6', 'annotator');
+INSERT INTO CSCI5308_6_DEVINT.User (id, first_name, last_name, email, password, role) VALUES (964319, 'Brad', 'Kun', 'bkun7@paypal.com', '8208c090ee279b9e4b72a34229bb4dca', 'annotator');
+INSERT INTO CSCI5308_6_DEVINT.User (id, first_name, last_name, email, password, role) VALUES (878624, 'Mickey', 'Fendlen', 'mfendlen8@flickr.com', 'd6d14565cfd2e9dc657c16eb3f985468', 'annotator');
+INSERT INTO CSCI5308_6_DEVINT.User (id, first_name, last_name, email, password, role) VALUES (137309, 'Sheri', 'Bettenson', 'sbettenson9@addtoany.com', '015b6bdadfc7e854818e4d60f31171d5', 'manager');

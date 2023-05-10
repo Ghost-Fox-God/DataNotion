@@ -1,0 +1,15 @@
+// export const BASEURL = "http://localhost:8080";
+export const PROJECTS = "/projects";
+export const LOGIN = "/login";
+export const REGISTER = "/users/register";
+export const TASKS = "/tasks";
+export const USERS = "/users";
+export const ADDUSER = "/users/add";
+export const REMOVEUSER = "/users/remove";
+export const ANNOTATORS = "/users/annotators";
+export const MANAGERS = "/users/managers";
+export const CLASSIFICATION = "/classification";
+export const ENTITY = "/entity";
+export const IMPORTS = "/imports";
+export const EXPORTS = "/exports";
+export const STATISTICS = "/statistics";

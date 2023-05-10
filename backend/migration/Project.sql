@@ -1,0 +1,15 @@
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (1, 'Stenella coeruleoalba', 'STARTED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (2, 'Mycteria ibis', 'STARTED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (3, 'Tauraco porphyrelophus', 'STARTED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (4, 'Alopex lagopus', 'STARTED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (5, 'Psophia viridis', 'STARTED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (6, 'Raphicerus campestris', 'COMPLETED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (7, 'Branta canadensis', 'COMPLETED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (8, 'Paradoxurus hermaphroditus', 'COMPLETED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (9, 'Tachybaptus ruficollis', 'COMPLETED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (10, 'Damaliscus lunatus', 'COMPLETED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (11, 'Nannopterum harrisi', 'COMPLETED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (12, 'Haliaeetus leucocephalus', 'COMPLETED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (13, 'Ctenophorus ornatus', 'COMPLETED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (14, 'Morelia spilotes variegata', 'COMPLETED');
+INSERT INTO CSCI5308_6_DEVINT.Project (id, name, status) VALUES (15, 'Ovibos moschatus', 'COMPLETED');

@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "datanotion-ec6c6"
+  },
+  "targets": {
+    "datanotion-ec6c6": {
+      "hosting": {
+        "prod": [
+          "datanotion-prod"
+        ],
+        "develop": [
+          "datanotion-develop"
+        ],
+        "test": [
+          "datanotion-test"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

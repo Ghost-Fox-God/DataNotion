@@ -1,0 +1,2 @@
+INSERT INTO CSCI5308_6_DEVINT.ClassificationTag (id, tag_name, project_id) VALUES (1, 'positive', '2');
+INSERT INTO CSCI5308_6_DEVINT.ClassificationTag (id, tag_name, project_id) VALUES (2, 'negative', '2');

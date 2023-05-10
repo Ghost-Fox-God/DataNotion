@@ -1,0 +1,9 @@
+INSERT INTO CSCI5308_6_DEVINT.Import_has_User (import_id, import_project_id, user_id) VALUES (1, 5, 108586);
+INSERT INTO CSCI5308_6_DEVINT.Import_has_User (import_id, import_project_id, user_id) VALUES (2, 3, 664468);
+INSERT INTO CSCI5308_6_DEVINT.Import_has_User (import_id, import_project_id, user_id) VALUES (3, 1, 958515);
+INSERT INTO CSCI5308_6_DEVINT.Import_has_User (import_id, import_project_id, user_id) VALUES (4, 1, 948511);
+INSERT INTO CSCI5308_6_DEVINT.Import_has_User (import_id, import_project_id, user_id) VALUES (5, 1, 274198);
+INSERT INTO CSCI5308_6_DEVINT.Import_has_User (import_id, import_project_id, user_id) VALUES (6, 2, 714588);
+INSERT INTO CSCI5308_6_DEVINT.Import_has_User (import_id, import_project_id, user_id) VALUES (7, 3, 964319);
+INSERT INTO CSCI5308_6_DEVINT.Import_has_User (import_id, import_project_id, user_id) VALUES (8, 4, 878624);
+INSERT INTO CSCI5308_6_DEVINT.Import_has_User (import_id, import_project_id, user_id) VALUES (9, 1, 878624);
